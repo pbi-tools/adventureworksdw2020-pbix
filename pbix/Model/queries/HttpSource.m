@@ -1,1 +1,1 @@
-"http://localhost:8080/" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+"https://raw.githubusercontent.com/pbi-tools/adventureworksdw2020-pbix/main/data/" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
