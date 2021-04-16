@@ -1,0 +1,21 @@
+{
+  "name": "Date",
+  "dataType": "dateTime",
+  "sourceColumn": "Date",
+  "formatString": "dd mmmm yyyy",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "UnderlyingDateTimeDataType",
+      "value": "Date"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"DateTimeGeneralPattern\"><DateTimes><DateTime LCID=\"2057\" Group=\"LongDate\" FormatString=\"dd MMMM yyyy\" /></DateTimes></Format>"
+    }
+  ]
+}

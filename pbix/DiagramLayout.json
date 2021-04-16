@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+  "diagrams": [
+    {
+      "isDefault": true,
+      "layout": {
+        "boundingBoxHeight": 762.55121951219519,
+        "boundingBoxWidth": 814.1,
+        "boundingBoxPosition": {
+          "x": 0,
+          "y": 0
+        },
+        "nodes": [
+          {
+            "layedOut": true,
+            "nodeIndex": "Customer",
+            "height": 195,
+            "width": 180,
+            "left": 13.843414634146342,
+            "top": 549.09560975609759
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Date",
+            "height": 195,
+            "width": 180,
+            "left": 634.1,
+            "top": 329.7
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Product",
+            "height": 214,
+            "width": 180,
+            "left": 484.58487804878047,
+            "top": 0
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Reseller",
+            "height": 195,
+            "width": 180,
+            "left": 0,
+            "top": 265.15463414634149
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Sales",
+            "height": 300,
+            "width": 180,
+            "left": 290.00292682926829,
+            "top": 265.50292682926829
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Sales Order",
+            "height": 180,
+            "width": 183,
+            "left": 36.324390243902442,
+            "top": 22.828780487804877
+          },
+          {
+            "layedOut": true,
+            "nodeIndex": "Sales Territory",
+            "height": 138,
+            "width": 180,
+            "left": 490.75853658536585,
+            "top": 624.55121951219519
+          }
+        ]
+      },
+      "name": "All tables",
+      "tables": [
+        "Customer",
+        "Date",
+        "Product",
+        "Reseller",
+        "Sales",
+        "Sales Order",
+        "Sales Territory"
+      ],
+      "zoomValue": 93.907466788822717
+    }
+  ]
+}

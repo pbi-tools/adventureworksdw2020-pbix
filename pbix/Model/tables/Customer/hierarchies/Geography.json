@@ -1,0 +1,15 @@
+{
+  "name": "Geography",
+  "levels": [
+    {
+      "name": "City",
+      "ordinal": 0,
+      "column": "City"
+    },
+    {
+      "name": "Customer",
+      "ordinal": 1,
+      "column": "Customer"
+    }
+  ]
+}

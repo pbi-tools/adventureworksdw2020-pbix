@@ -1,0 +1,16 @@
+{
+  "name": "Reseller",
+  "dataType": "string",
+  "sourceColumn": "Reseller",
+  "summarizeBy": "none",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"Text\" />"
+    }
+  ]
+}

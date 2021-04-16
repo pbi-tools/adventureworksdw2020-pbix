@@ -1,0 +1,10 @@
+{
+  "name": "Sales Orders",
+  "levels": [
+    {
+      "name": "Sales Order Line",
+      "ordinal": 0,
+      "column": "Sales Order Line"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Unit Price Discount Pct",
+  "dataType": "double",
+  "sourceColumn": "Unit Price Discount Pct",
+  "summarizeBy": "sum",
+  "annotations": [
+    {
+      "name": "SummarizationSetBy",
+      "value": "Automatic"
+    },
+    {
+      "name": "Format",
+      "value": "<Format Format=\"General\" />"
+    }
+  ]
+}

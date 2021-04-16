@@ -1,0 +1,10 @@
+{
+  "name": "Geography",
+  "levels": [
+    {
+      "name": "City",
+      "ordinal": 0,
+      "column": "City"
+    }
+  ]
+}
