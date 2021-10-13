@@ -15,4 +15,4 @@ A fully functioning and refreshable PBIT file can be generated from sources in t
 
     pbi-tools compile-pbix -folder ./pbix -format PBIT -outPath AdvWorksDW2020.pbit
 
-_Tested with `pbi-tools`, 1.0.0-beta.5 release._
+_Requires `pbi-tools`, 1.0.0-beta.6 or later release._
