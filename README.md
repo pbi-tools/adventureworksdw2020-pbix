@@ -7,7 +7,7 @@ This repo changes the distribution in two ways:
 1. The PBIX sources are provided instead of the binary PBIX file
 2. The underlying data tables have been extracted into CSV files and made available in a publicly accessible location. The model has been changed to fetch data from that location.
 
-A fully functioning and refreshable PBIT file can be generated from sources in this repo alone using `pbi-tools` (currently in private preview).
+A fully functioning and refreshable PBIT file can be generated from sources in this repo alone using [`pbi-tools`](https://github.com/action-bi-toolkit/pbi-tools).
 
 - Conceptual documentation for the model: <https://aka.ms/dax-docs-samples>
 
