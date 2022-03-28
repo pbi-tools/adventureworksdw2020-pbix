@@ -10,5 +10,14 @@
       "name": "PBI_ResultType",
       "value": "Table"
     }
+  ],
+  "partitions": [
+    {
+      "name": "Date",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
   ]
 }

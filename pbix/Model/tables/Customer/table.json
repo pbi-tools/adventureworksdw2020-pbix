@@ -9,5 +9,14 @@
       "name": "PBI_ResultType",
       "value": "Table"
     }
+  ],
+  "partitions": [
+    {
+      "name": "Customer",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
   ]
 }
