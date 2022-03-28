@@ -1,16 +1,6 @@
 {
   "name": "Date",
   "description": "Filters the Sales table using sales order date",
-  "annotations": [
-    {
-      "name": "PBI_NavigationStepName",
-      "value": "Navigation"
-    },
-    {
-      "name": "PBI_ResultType",
-      "value": "Table"
-    }
-  ],
   "partitions": [
     {
       "name": "Date",
@@ -18,6 +8,12 @@
       "source": {
         "type": "m"
       }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
     }
   ]
 }

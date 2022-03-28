@@ -1,15 +1,5 @@
 {
   "name": "Product",
-  "annotations": [
-    {
-      "name": "PBI_NavigationStepName",
-      "value": "Navigation"
-    },
-    {
-      "name": "PBI_ResultType",
-      "value": "Table"
-    }
-  ],
   "partitions": [
     {
       "name": "Product",
@@ -17,6 +7,12 @@
       "source": {
         "type": "m"
       }
+    }
+  ],
+  "annotations": [
+    {
+      "name": "PBI_ResultType",
+      "value": "Table"
     }
   ]
 }

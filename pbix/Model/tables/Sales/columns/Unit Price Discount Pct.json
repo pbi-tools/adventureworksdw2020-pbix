@@ -9,8 +9,8 @@
       "value": "Automatic"
     },
     {
-      "name": "Format",
-      "value": "<Format Format=\"General\" />"
+      "name": "PBI_FormatHint",
+      "value": "{\"isGeneralNumber\":true}"
     }
   ]
 }
