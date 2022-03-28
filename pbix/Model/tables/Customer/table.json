@@ -1,10 +1,15 @@
 {
   "name": "Customer",
-  "annotations": [
+  "partitions": [
     {
-      "name": "PBI_NavigationStepName",
-      "value": "Navigation"
-    },
+      "name": "Customer",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
     {
       "name": "PBI_ResultType",
       "value": "Table"

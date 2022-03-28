@@ -1,11 +1,16 @@
 {
   "name": "Date",
   "description": "Filters the Sales table using sales order date",
-  "annotations": [
+  "partitions": [
     {
-      "name": "PBI_NavigationStepName",
-      "value": "Navigation"
-    },
+      "name": "Date",
+      "mode": "import",
+      "source": {
+        "type": "m"
+      }
+    }
+  ],
+  "annotations": [
     {
       "name": "PBI_ResultType",
       "value": "Table"
